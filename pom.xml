@@ -54,12 +54,10 @@
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
             <version>7.10.1</version>
+            <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.example</groupId>
-            <artifactId>CucumberDemo</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
+
+
 
         <!-- https://mvnrepository.com/artifact/com.vimalselvam/cucumber-extentsreport -->
         <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
